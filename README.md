@@ -26,5 +26,5 @@ This repository contains the projects and tasks I completed during my **Virtual 
 
 ## Author
 
-**Mahaa**  
+**Maharukh**  
 Robotics and Intelligence Systems Student
